@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <assert.h>
 
+//poop
+
 int countArray(int * str, int n){
     int c = 0;
     int i;
