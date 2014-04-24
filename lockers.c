@@ -25,7 +25,7 @@ int lockers(int * lock, int n){
         return 0;
 }
 
-#define N 10
+#define N 1000
          
 int main(void){
     int answer;
